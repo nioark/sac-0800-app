@@ -1,6 +1,6 @@
 import LoginPage from "~/pages/login/login";
 
-export default function Index() {
+export default function Login() {
   return (
     <LoginPage />
   );
