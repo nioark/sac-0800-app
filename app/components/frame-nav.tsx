@@ -13,7 +13,7 @@ function LayerChamado(props : any){
                     <h1 className="mb-2 border-b text-2xl font-bold text-gray-800">Chamados</h1>
                     <li>
                     <a
-                        href="/chamados/adicionar"
+                        href="/chamados/aberto"
                         className="mb-2 flex items-center rounded-lg bg-gray-200 px-2 py-2 text-sm font-bold text-gray-700"
                     >
                         <span className="material-symbols-outlined mr-2">

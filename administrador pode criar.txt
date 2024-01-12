@@ -1,0 +1,14 @@
+administrador
+pode criar chamados e vincular a um usuário ou a sí mesmo
+editar chamados e vincular a um usuário ou a sí mesmo
+finalizar chamados e vincular a um usuário ou a sí mesmo
+transferir chamados e vincular a um usuário ou a sí mesmo
+
+kambam: Acesso ao kambam para adicionar/remover/transferir chamado
+Relatorios: Acesso a todos os chamados Filtros de usuários/clientes/status/periodo de tempo
+
+usuário:
+Criar tarefas para ele mesmo
+editar tarefas dele
+finalizar tarefas dele
+Relatorios: Relatorio somente de seus proprios chamados com os filtros clientes/status/periodo de tempo

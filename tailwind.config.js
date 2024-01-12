@@ -6,7 +6,11 @@ export default {
     "./app/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'hardtec' : '#0C1FCB',
+      }
+    },
   },
   plugins: [],
 }
